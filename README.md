@@ -7,7 +7,7 @@
 | **Cluster 2** | 👨‍👩‍👧 **Majority parents**<br>👨‍👩‍👧 Family size: max 3 members<br>👶 Have younger children (not teenagers)<br>🧑 Relatively younger |
 | **Cluster 3** | 👨‍👩‍👧‍👦 **Definitely parents**<br>👨‍👩‍👧‍👦 Family size: 2 to 5 members<br>🧒 Teenagers at home<br>👴 Relatively older<br>💰 Lower-income group |
 
-# ****************************************************************************************************************************************************************
+
 
 <h2 style="color: #4CAF50;">📊 Project Overview: Unsupervised Clustering</h2>
 
